@@ -1,0 +1,16 @@
+.search {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+  }
+
+.tab {
+  display: flex;
+  justify-content: space-around;
+ 
+}
